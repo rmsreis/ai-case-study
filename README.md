@@ -34,7 +34,7 @@
 > "Our mission is to solve intelligence and then use that to solve everything else."  
 > — Demis Hassabis, Co-Founder of DeepMind
 
-**Problem:** DeepMind aims to solve the problem of creating artificial general intelligence (AGI) that can learn and perform tasks as efficiently as humans. They focus on developing algorithms capable of learning from raw data and making decisions in complex environments.
+**Problem:** DeepMind aims to solve the problem of creating [artificial general intelligence (AGI)](https://en.wikipedia.org/wiki/Artificial_general_intelligence) that can learn and perform tasks as efficiently as humans. They focus on developing algorithms capable of learning from raw data and making decisions in complex environments.
 
 **Intended Customer:** DeepMind's research and technologies are intended for a broad range of applications, benefiting industries such as healthcare, energy, and gaming. Their primary customers include researchers, developers, and large organizations seeking to leverage AI for advanced problem-solving.
 
