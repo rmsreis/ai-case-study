@@ -6,7 +6,22 @@
 
 **Incorporation:** DeepMind was founded in 2010.
 
-**Founders:** _Demis Hassabis, Shane Legg, Mustafa Suleyman_
+**Founders:** [Demis Hassabis](https://en.wikipedia.org/wiki/Demis_Hassabis), [Shane Legg](https://en.wikipedia.org/wiki/Shane_Legg), [Mustafa Suleyman](https://en.wikipedia.org/wiki/Mustafa_Suleyman)
+
+<div style="display: flex; justify-content: space-around;">
+  <div style="text-align: center;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Demis_Hassabis_%28cropped%29.jpg" alt="Demis Hassabis" width="150" />
+    <p><strong>Demis Hassabis</strong></p>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Shane_Legg.jpg" alt="Shane Legg" width="150" />
+    <p><strong>Shane Legg</strong></p>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Mustafa_Suleyman.jpg" alt="Mustafa Suleyman" width="150" />
+    <p><strong>Mustafa Suleyman</strong></p>
+  </div>
+</div>
 
 **Idea Origin:** The idea for DeepMind was born from the founders' desire to solve intelligence and then use that to solve everything else. They aimed to combine insights from neuroscience and machine learning to create powerful AI systems that can learn to solve a wide range of complex problems.
 
