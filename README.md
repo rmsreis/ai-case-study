@@ -10,7 +10,7 @@
 
 <div style="display: flex; justify-content: space-around;">
   <div style="text-align: center;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Demis_Hassabis_%28cropped%29.jpg" alt="Demis Hassabis" width="150" />
+    <img src="https://en.wikipedia.org/wiki/File:Demis_Hassabis_Royal_Society.jpg" alt="Demis Hassabis" width="150" />
     <p><strong>Demis Hassabis</strong></p>
   </div>
   <div style="text-align: center;">
