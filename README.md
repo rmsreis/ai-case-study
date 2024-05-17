@@ -25,9 +25,8 @@
   </div>
 </div>
 
-<div style="border: 2px solid #000; padding: 10px; background-color: #f9f9f9;">
-  <p><strong>Idea Origin:</strong> The idea for DeepMind was born from the founders' desire to solve intelligence and then use that to solve everything else. They aimed to combine insights from neuroscience and machine learning to create powerful AI systems that can learn to solve a wide range of complex problems.</p>
-</div>
+> **Idea Origin:** The idea for DeepMind was born from the founders' desire to solve intelligence and then use that to solve everything else. They aimed to combine insights from neuroscience and machine learning to create powerful AI systems that can learn to solve a wide range of complex problems.
+
 
 **Funding:** DeepMind was initially funded by several notable investors, including Peter Thiel, Elon Musk, and Li Ka-shing. In 2014, DeepMind was acquired by Google for around $500 million, providing substantial financial support and resources.
 
