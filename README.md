@@ -64,7 +64,7 @@
 
 **Core Metrics:** Key metrics in this field include:
 
-**Research Publications:** Number of influential research papers published. You can find a list of their publications [here](https://deepmind.com/research/publications).
+- **Research Publications:** Number of influential research papers published. You can find a list of their publications [here](https://deepmind.com/research/publications).
 - **Model Performance:** Benchmark performance of AI models on various tasks.
 - **Adoption Rate:** Usage of their AI models and tools by developers and businesses.
 - **Ethical Impact:** Initiatives to ensure safe and ethical use of AI technologies.
