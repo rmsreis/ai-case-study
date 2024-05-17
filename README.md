@@ -41,10 +41,10 @@
 **Solution and Unfair Advantage:** DeepMind develops advanced AI models and algorithms, with a particular focus on reinforcement learning and deep learning. Their unfair advantage lies in their interdisciplinary approach, combining neuroscience, machine learning, and computing power, along with strong support from Google.
 
 **Technologies:** DeepMind uses a variety of advanced technologies, including:
-- **Reinforcement Learning (RL):** For training AI to make decisions by interacting with environments.
-- **Deep Learning:** Utilizing neural networks to process and learn from large datasets.
-- **Neuroscience Insights:** Applying principles from neuroscience to improve AI models.
-- **AlphaFold and AlphaGo:** Specific AI systems that have achieved significant breakthroughs in protein folding and game-playing.
+- **[Reinforcement Learning (RL)](https://en.wikipedia.org/wiki/Reinforcement_learning):** For training AI to make decisions by interacting with environments.
+- **[Deep Learning](https://en.wikipedia.org/wiki/Deep_learning):** Utilizing neural networks to process and learn from large datasets.
+- **[Neuroscience Insights](https://en.wikipedia.org/wiki/Computational_neuroscience):** Applying principles from neuroscience to improve AI models.
+- **[AlphaFold and AlphaGo](https://en.wikipedia.org/wiki/AlphaFold):** Specific AI systems that have achieved significant breakthroughs in protein folding and game-playing.
 
 ## Landscape
 
