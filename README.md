@@ -1,5 +1,7 @@
 # DeepMind: Advancing AI with Breakthrough Research
 
+![DeepMind Logo](pictures/deepmind_logo.jpg)
+
 ## Overview and Origin
 
 **Name of company:** **DeepMind**
@@ -10,15 +12,15 @@
 
 <div style="display: flex; justify-content: space-around;">
   <div style="text-align: center;">
-    <img src="https://en.wikipedia.org/wiki/File:Demis_Hassabis_Royal_Society.jpg" alt="Demis Hassabis" width="150" />
+    <img src="pictures/demis_hassabis.jpg" alt="Demis Hassabis" width="150" />
     <p><strong>Demis Hassabis</strong></p>
   </div>
   <div style="text-align: center;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Shane_Legg.jpg" alt="Shane Legg" width="150" />
+    <img src="pictures/shane_legg.jpg" alt="Shane Legg" width="150" />
     <p><strong>Shane Legg</strong></p>
   </div>
   <div style="text-align: center;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Mustafa_Suleyman.jpg" alt="Mustafa Suleyman" width="150" />
+    <img src="pictures/mustafa_suleyman.jpg" alt="Mustafa Suleyman" width="150" />
     <p><strong>Mustafa Suleyman</strong></p>
   </div>
 </div>
