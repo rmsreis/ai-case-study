@@ -25,7 +25,9 @@
   </div>
 </div>
 
-**Idea Origin:** The idea for DeepMind was born from the founders' desire to solve intelligence and then use that to solve everything else. They aimed to combine insights from neuroscience and machine learning to create powerful AI systems that can learn to solve a wide range of complex problems.
+<div style="border: 2px solid #000; padding: 10px; background-color: #f9f9f9;">
+  <p><strong>Idea Origin:</strong> The idea for DeepMind was born from the founders' desire to solve intelligence and then use that to solve everything else. They aimed to combine insights from neuroscience and machine learning to create powerful AI systems that can learn to solve a wide range of complex problems.</p>
+</div>
 
 **Funding:** DeepMind was initially funded by several notable investors, including Peter Thiel, Elon Musk, and Li Ka-shing. In 2014, DeepMind was acquired by Google for around $500 million, providing substantial financial support and resources.
 
@@ -85,7 +87,7 @@
 - **AI-Powered Diagnostic Tool:** Utilizes deep learning for image and data analysis, reinforcement learning for decision-making, and cloud computing for scalability.
 - **Sustainability Analytics Platform:** Employs machine learning for predictive analytics, IoT integration for real-time data collection, and big data analytics for comprehensive insights.
 
-**Appropriateness of Technologies:** 
+**Suitability of Deep Mind's Technologies:** 
 - **AI-Powered Diagnostic Tool:** Ensures accurate and efficient medical diagnostics, aligning with DeepMind's expertise in healthcare AI.
 - **Sustainability Analytics Platform:** Provides actionable insights for energy optimization, leveraging DeepMind's capabilities in big data and machine learning.
 
